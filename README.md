@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Some chages to elarn commits
+Some chages to learn commits
